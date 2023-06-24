@@ -1,5 +1,5 @@
 <p>
-  <img src="https://bbdu.ac.in/wp-content/uploads/2020/02/utkarsh-website-banner-background.jpg">
+  <img src="https://media.tenor.com/asJFBWDay04AAAAd/anime-aesthetic.gif">
 </p>
 
 <p>
