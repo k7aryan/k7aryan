@@ -28,18 +28,3 @@
 
 </details>
 
-<details>
-  <summary>📈 Show GitHub Stats</summary>
-  <br />
-  <p align="center">
-    <img width="49%"
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=k7aryan&&show_icons=true&theme=dark" />
-    <img width="49%"
-    
-  </p>
-
-  <p align="center">
-    <img
-     
-  </p>
-</details>
