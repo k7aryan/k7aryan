@@ -1,5 +1,5 @@
 <p>
-  <img src="https://github.com/krshkun/krshkun/raw/main/assets/Banner.png">
+  <img src="E:\PFP\kita ikuyo.jpg">
 </p>
 
 <p>
