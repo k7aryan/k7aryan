@@ -14,7 +14,7 @@
 <details>
   <summary>🧑 More about me</summary>
 
-  - 🔭 I’m currently on a journey to get into **Harvard**
+  - 🔭 I’m currently on a journey
 
   - 🌱 I’m currently learning **everything** 🤓
 
