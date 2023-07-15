@@ -24,7 +24,7 @@
 
   - 💬 Ask me about **open source, web development, and Node.js**
 
-  - 📫 Reach me out at **@k7_aryan**
+  - 📫 Reach me out at **@k7aryan**
 
 </details>
 
