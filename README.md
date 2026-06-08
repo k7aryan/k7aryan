@@ -12,7 +12,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently on a journey<br><br>🌱 I’m currently learning everything 🤓<br><br>🤝 I’m looking for help with finding projects to contribute to!<br><br>👨‍💻 All of my projects are available on GitHub<br><br>📫 Reach me out at @k7aryan
+🔭 I’m currently on a journey<br><br>🌱 I’m currently learning everything 🤓<br><br>🤝 I’m looking for help with finding projects to contribute to!<br><br>👨‍💻 All of my projects are available on GitHub<br><br>📫 Reach me out at bhataryaan17@gmail.com
 
 
 ## 🌐 Socials:
