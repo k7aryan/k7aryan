@@ -5,7 +5,7 @@
 <p>
 
   Hi 👋, I am **Aryan Bhat** an enthusiastic and ambitious Data Analyst. I specialise in Python,
-  SQL and DJaango. I love to network, join new communities and add value ✨
+  SQL and DJango. I love to network, join new communities and add value ✨
 
 </p>
 
