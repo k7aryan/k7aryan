@@ -10,8 +10,7 @@
 </p>
 
 
-
-# 💫 About Me:<br>🤝 I’m looking for help with finding projects to contribute to!<br><br>👨‍💻 All of my projects are available on GitHub<br><br>📫 Reach me out at bhataryaan17@gmail.com
+📫 Reach me out at bhataryaan17@gmail.com
 
 
 ## 🌐 Socials:
